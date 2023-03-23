@@ -9,6 +9,17 @@ _________________________________________________________________________
 We present a new real-world depth estimation benchmark including data acquired from UAV platforms.
 The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction.
 
+#### Flight specifications
+
+* Area Covered: 1100 x 650 meters
+* Average flight height: 80m above ground
+* GDS: approx. 2 cm
+* Image overlap: 80% (forward) - 60% (side)
+* LiDaR point cloud density 51 points/m2 (approx.)
+
+#### Images
+* Total number of images: 829
+* Image resolution 7952 x 5304 pixel
 
 
 

@@ -18,7 +18,7 @@ The provided data aim to support research in both monocular depth estimation and
 * LiDaR point cloud density 51 points/m2 (approx.)
 
 #### Images
-* Total number of images: 829
+* Total number of images: 828
 * Image resolution 7952 x 5304 pixel
 
 

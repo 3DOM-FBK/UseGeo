@@ -22,11 +22,11 @@ The provided data aim to support research in both monocular depth estimation and
 * Image resolution 7952 x 5304 pixel
 
 
-|  Dataset | Strips  |  # images |Forward Overlap | Side Overlap  |  GSD [cm] |
-|---|---|---|---|---|---|
-|  1 | 8  |  224 |  80 |  60 | 1.7 |
-|  2 |  8 | 327  |  80 | 60  |1.8|
-| 3  |  8 | 277  |  80 |   60|1.9|
+|  Dataset | Strips  |  # images |  GSD [cm] |
+|---|---|---|---|
+|  1 | 8  |  224 |  1.7 |
+|  2 |  8 | 327  |  1.8|
+| 3  |  8 | 277  |  1.9|
 
 
 

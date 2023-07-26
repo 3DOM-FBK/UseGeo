@@ -22,9 +22,9 @@ The provided data aim to support research in both monocular depth estimation and
 * Image resolution 7952 x 5304 pixel
 
 
-|  Dataset | Strips  |  # images |  GSD [cm] |
+|  Dataset | Strips  |  # images |  GSD [cm] | link |
 |---|---|---|---|
-|  1 | 8  |  224 |  1.7 |
+|  1 | 8  |  224 |  1.7 | <a href="https://eostore.itc.utwente.nl:5001/sharing/1gJRLdQ71 ">download</a>
 |  2 |  8 | 327  |  1.8|
 | 3  |  8 | 277  |  1.9|
 

@@ -7,7 +7,7 @@ _________________________________________________________________________
 USEGEO presents a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. 
 
 
-#### Flight specifications
+#### Flight specifications 
 
 * Area Covered: 1100 x 650 meters
 * Average flight height: 80m above ground

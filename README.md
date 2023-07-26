@@ -1,13 +1,13 @@
-# UseGeo
-UAV-based multi-sensor dataset for geospatial research
-![UseGeo_repo](https://user-images.githubusercontent.com/11046400/227237903-061cf8ae-d371-42fe-8e3b-74f2c8af9f48.png)
+# UseGeo - UAV-based multi-sensor dataset for geospatial research
 
 [Benchmark data]
 
 _________________________________________________________________________
 ### 1. Dataset Description
-We present a new real-world depth estimation benchmark including data acquired from UAV platforms.
-The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction.
+USEGEO is an <a href="http://www.isprs.org">ISPRS</a> Scientific Initiative which aims to deliver a new and unique dataset for the rigorous assessment of 3D reconstruction algorithms applied to datasets acquired with UAV platforms. 
+
+We present a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. 
+
 
 #### Flight specifications
 

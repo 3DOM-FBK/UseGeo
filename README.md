@@ -2,10 +2,10 @@
 
 _________________________________________________________________________
 ### Description
-<a href="https://usegeo.fbk.eu/" target=page>USEGEO</a> is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to deliver a new and unique dataset for the rigorous assessment of 3D reconstruction algorithms applied to datasets acquired with UAV platforms. 
+<a href="https://usegeo.fbk.eu/" target=page>USEGEO</a> is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to prepare and deliver a new and unique dataset for the rigorous assessment of image-based 3D reconstruction algorithms applied to datasets acquired with <b>UAV platforms</b>. 
 
-USEGEO presents a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. <br>
-<img src="https://lh6.googleusercontent.com/y6vHJlP292VKlKshMV0MG9QRezUCqyW52fnruziekyk64asL62hfROVrrmiMcgowkGvMz_-EK61FCI4X9o_PtAWhZMo4wXK_jC8tHn7NAR5CEjWxEba8vbuUYA-XWdwENQ=w1280"><br>
+USEGEO presents a new large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc. <p>
+<img src="https://lh6.googleusercontent.com/y6vHJlP292VKlKshMV0MG9QRezUCqyW52fnruziekyk64asL62hfROVrrmiMcgowkGvMz_-EK61FCI4X9o_PtAWhZMo4wXK_jC8tHn7NAR5CEjWxEba8vbuUYA-XWdwENQ=w1280"><p>
 
 #### Flight specifications 
 
@@ -30,7 +30,8 @@ USEGEO presents a new large-scale real-world depth estimation set of data which 
 | 3  |  8 | 277  |  1.9|  <a href="https://eostore.itc.utwente.nl:5001/sharing/r4o1tdCNv">download</a>|
 
 
-
+<p>
+<img src="https://lh3.googleusercontent.com/nXaThr2VvKNNN33kJoglUztFqLIZMm_KTPRbIeVLZnyGc03OK_lirseJ58EMBig3bvXFpT-xSP-S0vygh3qfaFK4wenBo6nGlFWvxG9h0vljxJogLizwEN5kx0uIw8L-=w1280"><p>
 _________________________________________________________________________
 ### Credits
 This dataset is publicly available for research purposes.

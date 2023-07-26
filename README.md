@@ -34,7 +34,7 @@ USEGEO presents a new large-scale real-world depth estimation set of data which 
 _________________________________________________________________________
 ### Credits
 This dataset is publicly available for research purposes.
-If you use this dataset for your research, please cite the ISPRS Scientific Initiative USEGEO - https://usegeo.fbk.eu:
+If you use this dataset for your research, please cite the ISPRS Scientific Initiative USEGEO - <a href="https://usegeo.fbk.eu" target=page>https://usegeo.fbk.eu</a>
 
 _________________________________________________________________________
 ### License

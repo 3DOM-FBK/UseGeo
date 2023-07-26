@@ -31,7 +31,8 @@ USEGEO presents a new large-scale real-world set of data suitable for multiple t
 
 
 <p>
-<img src="https://lh3.googleusercontent.com/nXaThr2VvKNNN33kJoglUztFqLIZMm_KTPRbIeVLZnyGc03OK_lirseJ58EMBig3bvXFpT-xSP-S0vygh3qfaFK4wenBo6nGlFWvxG9h0vljxJogLizwEN5kx0uIw8L-=w1280"><p>
+<img src="https://lh3.googleusercontent.com/nXaThr2VvKNNN33kJoglUztFqLIZMm_KTPRbIeVLZnyGc03OK_lirseJ58EMBig3bvXFpT-xSP-S0vygh3qfaFK4wenBo6nGlFWvxG9h0vljxJogLizwEN5kx0uIw8L-=w1280">
+
 _________________________________________________________________________
 ### Credits
 This dataset is publicly available for research purposes.

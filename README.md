@@ -33,7 +33,7 @@ The provided data aim to support research in both monocular depth estimation and
 _________________________________________________________________________
 ### 3. Credits
 This dataset is publicly available for research purposes.
-If you use this dataset for your research, please cite our article:
+If you use this dataset for your research, please cite the ISPRS Scientific Initiative USEGEO - https://usegeo.fbk.eu:
 
 _________________________________________________________________________
 ### 4. License

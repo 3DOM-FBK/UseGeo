@@ -4,8 +4,8 @@ _________________________________________________________________________
 ### Description
 <a href="https://usegeo.fbk.eu/" target=page>USEGEO</a> is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to deliver a new and unique dataset for the rigorous assessment of 3D reconstruction algorithms applied to datasets acquired with UAV platforms. 
 
-USEGEO presents a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. 
-
+USEGEO presents a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. <br>
+<img src="https://lh6.googleusercontent.com/y6vHJlP292VKlKshMV0MG9QRezUCqyW52fnruziekyk64asL62hfROVrrmiMcgowkGvMz_-EK61FCI4X9o_PtAWhZMo4wXK_jC8tHn7NAR5CEjWxEba8vbuUYA-XWdwENQ=w1280"><br>
 
 #### Flight specifications 
 

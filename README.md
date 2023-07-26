@@ -3,10 +3,10 @@
 [Benchmark data]
 
 _________________________________________________________________________
-### 1. Dataset Description
-USEGEO is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to deliver a new and unique dataset for the rigorous assessment of 3D reconstruction algorithms applied to datasets acquired with UAV platforms. 
+### Description
+<a href="https://usegeo.fbk.eu/" target=page>USEGEO</a> is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to deliver a new and unique dataset for the rigorous assessment of 3D reconstruction algorithms applied to datasets acquired with UAV platforms. 
 
-We present a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. 
+USEGEO presents a new large-scale real-world depth estimation set of data which include data acquired from UAV platforms. The provided data aim to support research in both monocular depth estimation and multi-view 3D reconstruction. 
 
 
 #### Flight specifications
@@ -15,12 +15,15 @@ We present a new large-scale real-world depth estimation set of data which inclu
 * Average flight height: 80m above ground
 * GDS: approx. 2 cm
 * Image overlap: 80% (forward) - 60% (side)
-* LiDaR point cloud density 51 points/m2 (approx.)
+* LiDaR point cloud density: 51 points/m2 (approx.)
 
-#### Images
-* Total number of images: 828
-* Image resolution 7952 x 5304 pixel
-
+#### Provided data: Images, depths, dense point clouds
+* Total number of images (and relative ground truth depths): 828
+* Image resolution: 7952 x 5304 px
+* Provided GT depth: 1989 × 1320 px (1/4 resized / downsampled)
+* Camera poses (X0, Y0, Z0, omega [deg], phi[deg], kappa[deg]) and interior parameters (c[px], x0[px], y0[px]): provided
+* LiDAR point clouds: provided
+* Photogrammetric point cloud (MVS): provided
 
 |  Dataset | Strips  |  # images |  GSD [cm] | link |
 |---|---|---|---|---|
@@ -31,10 +34,10 @@ We present a new large-scale real-world depth estimation set of data which inclu
 
 
 _________________________________________________________________________
-### 3. Credits
+### Credits
 This dataset is publicly available for research purposes.
 If you use this dataset for your research, please cite the ISPRS Scientific Initiative USEGEO - https://usegeo.fbk.eu:
 
 _________________________________________________________________________
-### 4. License
+### License
 The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

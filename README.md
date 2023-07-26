@@ -1,7 +1,5 @@
 # UseGeo - UAV-based multi-sensor dataset for geospatial research
 
-[Benchmark data]
-
 _________________________________________________________________________
 ### Description
 <a href="https://usegeo.fbk.eu/" target=page>USEGEO</a> is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to deliver a new and unique dataset for the rigorous assessment of 3D reconstruction algorithms applied to datasets acquired with UAV platforms. 
@@ -13,14 +11,14 @@ USEGEO presents a new large-scale real-world depth estimation set of data which 
 
 * Area Covered: 1100 x 650 meters
 * Average flight height: 80m above ground
-* GDS: approx. 2 cm
+* GSD (Ground Sampling Distance - image resolution in object space): approx. 2 cm
 * Image overlap: 80% (forward) - 60% (side)
-* LiDaR point cloud density: 51 points/m2 (approx.)
+* LiDaR point cloud density: ca 50 points/m2
 
 #### Provided data: Images, depths, dense point clouds
 * Total number of images (and relative ground truth depths): 828
-* Image resolution: 7952 x 5304 px
-* Provided GT depth: 1989 × 1320 px (1/4 resized / downsampled)
+* Image size: 7952 x 5304 px
+* Provided GT depth size: 1989 × 1320 px (1/4 resized / downsampled)
 * Camera poses (X0, Y0, Z0, omega [deg], phi[deg], kappa[deg]) and interior parameters (c[px], x0[px], y0[px]): provided
 * LiDAR point clouds: provided
 * Photogrammetric point cloud (MVS): provided

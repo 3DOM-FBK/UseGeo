@@ -26,7 +26,7 @@ USEGEO presents a new large-scale real-world depth estimation set of data which 
 |  Dataset | Strips  |  # images |  GSD [cm] | link |
 |---|---|---|---|---|
 |  1 | 8  |  224 |  1.7 | <a href="https://eostore.itc.utwente.nl:5001/sharing/1gJRLdQ71">download</a>|
-|  2 |  8 | 327  |  1.8|  <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT">download</a>|
+|  2 |  8 | 328  |  1.8|  <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT">download</a>|
 | 3  |  8 | 277  |  1.9|  <a href="https://eostore.itc.utwente.nl:5001/sharing/r4o1tdCNv">download</a>|
 
 

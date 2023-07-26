@@ -18,7 +18,7 @@ USEGEO presents a new large-scale real-world depth estimation set of data which 
 #### Provided data: Images, depths, dense point clouds
 * Total number of images (and relative ground truth depths): 829 in the 3 datasets
 * Image size: 7952 x 5304 px
-* Provided GT depth size: 1989 × 1320 px (1/4 resized / downsampled)
+* Provided Ground Truth depth size: 1989 × 1320 px (1/4 resized / downsampled)
 * Camera poses (X0, Y0, Z0, omega [deg], phi[deg], kappa[deg]) and interior parameters (c[px], x0[px], y0[px]): provided
 * LiDAR point clouds: provided
 * Photogrammetric point cloud (MVS): provided

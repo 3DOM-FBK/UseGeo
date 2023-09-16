@@ -4,9 +4,12 @@ _________________________________________________________________________
 ### Description
 <a href="https://usegeo.fbk.eu/" target=page>USEGEO</a> is an <a href="http://www.isprs.org" target=page>ISPRS</a> Scientific Initiative which aims to prepare and deliver a new and unique dataset for the rigorous assessment of image-based 3D reconstruction algorithms applied to datasets acquired with <b>UAV platforms</b>. 
 
-USEGEO presents a new large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc. <p>
-<img src="https://github.com/3DOM-FBK/NeRFBK/blob/master/pictures/Aerial/Drone.png" heigth=300><p>
-
+USEGEO presents a new large-scale real-world set of data suitable for multiple tasks, such as monocular depth estimation, multi-view 3D reconstruction (MVS), etc. 
+<p><center>
+<img src="https://github.com/3DOM-FBK/NeRFBK/blob/master/pictures/Aerial/Drone.png" width=500><p>
+<img src="https://github.com/3DOM-FBK/NeRFBK/blob/master/pictures/Aerial/Drone_network.png" width=500>
+</center>
+  
 #### Flight specifications 
 
 * Area Covered: 1100 x 650 meters

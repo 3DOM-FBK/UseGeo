@@ -37,6 +37,10 @@ USEGEO presents a new large-scale real-world set of data suitable for multiple t
 <img src="https://lh6.googleusercontent.com/Ex4Z3nDL8AbA3cDvsPW6d4X4nqWFk32JjZs5pIn2mmmFspMIGTKnhvAK1Nt_7OXJrcd5Ye_WJLETb1HksNTU5vS9DJ2ovDlost4QOunniYQPEGIjIirULRDkJAwoGFSe=w1280">
 
 _________________________________________________________________________
+### Related publications
+Nex, F., Zhang, N., Remondino, F., Farella, E. M., Qin, R., and Zhang, C.: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/123/2023/" target=page>BENCHMARKING THE EXTRACTION OF 3D GEOMETRY FROM UAV IMAGES WITH DEEP LEARNING METHODS</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 123–130.
+
+_________________________________________________________________________
 ### Credits
 This dataset is publicly available for research purposes.
 If you use this dataset for your research, please cite the ISPRS Scientific Initiative USEGEO - <a href="https://usegeo.fbk.eu" target=page>https://usegeo.fbk.eu</a>

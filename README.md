@@ -40,6 +40,8 @@ _________________________________________________________________________
 ### Related publications
 Nex, F., Zhang, N., Remondino, F., Farella, E. M., Qin, R., and Zhang, C.: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/123/2023/" target=page>BENCHMARKING THE EXTRACTION OF 3D GEOMETRY FROM UAV IMAGES WITH DEEP LEARNING METHODS</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 123–130.
 
+M. Hermann, M. Weinmann, F. Nex, E.K. Stathopoulou, F. Remondino, B. Jutzi, B. Ruf, 2024: <a href="https://doi.org/10.1016/j.ophoto.2024.100065" target=page>Depth estimation and 3D reconstruction from UAV-borne imagery: Evaluation on the UseGeo dataset</a>. ISPRS Open Journal of Photogrammetry and Remote Sensing, 100065.
+
 _________________________________________________________________________
 ### Credits
 This dataset is publicly available for research purposes.

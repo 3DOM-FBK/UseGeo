@@ -32,7 +32,7 @@ USEGEO presents a new large-scale real-world set of data suitable for multiple t
 |  2 |  8 | 328  |  1.8|  <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT">download</a>|
 | 3  |  8 | 277  |  1.9|  <a href="https://eostore.itc.utwente.nl:5001/sharing/r4o1tdCNv">download</a>|
 
-
+The links to download can be blocked by the firewall of your university/institution. If the download does not work, please try with another network (e.g. home connection).
 <p>
 <img src="https://lh6.googleusercontent.com/Ex4Z3nDL8AbA3cDvsPW6d4X4nqWFk32JjZs5pIn2mmmFspMIGTKnhvAK1Nt_7OXJrcd5Ye_WJLETb1HksNTU5vS9DJ2ovDlost4QOunniYQPEGIjIirULRDkJAwoGFSe=w1280">
 

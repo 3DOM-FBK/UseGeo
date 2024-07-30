@@ -38,9 +38,15 @@ The links to download can be blocked by the firewall of your university/institut
 
 _________________________________________________________________________
 ### Related publications
-Nex, F., Zhang, N., Remondino, F., Farella, E. M., Qin, R., and Zhang, C.: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/123/2023/" target=page>BENCHMARKING THE EXTRACTION OF 3D GEOMETRY FROM UAV IMAGES WITH DEEP LEARNING METHODS</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 123–130.
+Nex, F., Zhang, N., Remondino, F., Farella, E. M., Qin, R., and Zhang, C., 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/123/2023/" target=page>BENCHMARKING THE EXTRACTION OF 3D GEOMETRY FROM UAV IMAGES WITH DEEP LEARNING METHODS</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 123–130.
+
+F. Nex, E.K. Stathopoulou, F. Remondino, M.Y. Yang, L. Madhuanand, Y. Yogender, B. Alsadik, M. Weinmann, B. Jutzi, R. Qin, 2024: <a href="https://www.sciencedirect.com/science/article/pii/S2667393224000140">UseGeo - A UAV-based multi-sensor dataset for geospatial research</a>.  ISPRS Open Journal of Photogrammetry and Remote Sensing, Vol. 13, 100070
 
 M. Hermann, M. Weinmann, F. Nex, E.K. Stathopoulou, F. Remondino, B. Jutzi, B. Ruf, 2024: <a href="https://doi.org/10.1016/j.ophoto.2024.100065" target=page>Depth estimation and 3D reconstruction from UAV-borne imagery: Evaluation on the UseGeo dataset</a>. ISPRS Open Journal of Photogrammetry and Remote Sensing, 100065.
+
+_________________________________________________________________________
+### Related repository
+Depth estimation and 3D model reconstruction from aerial imagery: <a href="https://github.com/UseGeoEvaluation/DepthEstimationAnd3DReconstruction">https://github.com/UseGeoEvaluation/DepthEstimationAnd3DReconstruction</a>
 
 _________________________________________________________________________
 ### Credits
